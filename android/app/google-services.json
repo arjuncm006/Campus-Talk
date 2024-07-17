@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001293002657",
+    "project_id": "clg-chat-9f194",
+    "storage_bucket": "clg-chat-9f194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001293002657:android:d4b8578c7e4dfc6d0ebde0",
+        "android_client_info": {
+          "package_name": "com.example.clg_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDaeuu0scUss_VdxT7TY7kmPJCZEIKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
